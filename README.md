@@ -37,6 +37,8 @@ windows-log-detection/
 │
 └── README.md                          # This file
 
+The lines above are enclosed in **triple backticks (\`\`\`)** to make them appear as a neat code block with formatting. Please open the file in a doc file for proper formatting. :)
+
 ## Steps Performed
 
 1. Collected a sample `.evtx` Windows Security log file containing failed logon events.
